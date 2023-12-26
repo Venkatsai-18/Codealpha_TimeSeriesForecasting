@@ -5,4 +5,4 @@ Problems where the outcome depends on previous outcomes comes under Time Series 
 # Libraries
 
 * pandas
-* sikit-learn
+* scikit-learn
